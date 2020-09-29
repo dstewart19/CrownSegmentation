@@ -1,0 +1,36 @@
+<annotation>
+    <folder>RGB</folder>
+    <filename>2018_SJER_3_252000_4106000_image_66.tif</filename>
+    <size>
+        <width>400</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>67</xmin>
+            <ymin>372</ymin>
+            <xmax>102</xmax>
+            <ymax>400</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>99</xmin>
+            <ymin>298</ymin>
+            <xmax>206</xmax>
+            <ymax>399</ymax>
+        </bndbox>
+    </object>
+</annotation>

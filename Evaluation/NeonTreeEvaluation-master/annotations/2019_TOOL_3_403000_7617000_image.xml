@@ -1,0 +1,23 @@
+<annotation>
+    <folder>temp_training</folder>
+    <filename>2019_TOOL_3_403000_7617000_image.tif</filename>
+    <size>
+        <width>10000</width>
+        <height>10000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tree</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4802</xmin>
+            <ymin>4617</ymin>
+            <xmax>4858</xmax>
+            <ymax>4680</ymax>
+        </bndbox>
+    </object>
+</annotation>
